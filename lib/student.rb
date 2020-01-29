@@ -5,4 +5,4 @@ class Student < User
 end
 
 def learn(string)
-  string
+  @knowledge
